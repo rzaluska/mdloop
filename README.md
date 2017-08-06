@@ -11,8 +11,12 @@ go get github.com/rzaluska/mdloop
 
 ## Usage
 
-```
-mdloop [-f fiename]
-```
+1. Run:
 
-If no filename is specified then `README.md` is used as default.
+    ```
+     mdloop [-f fiename]
+    ```
+
+    If no filename is specified then `README.md` is used as default.
+
+2. Go to [localhost:8080](http://localhost:8080/) in your web browser.

@@ -14,7 +14,7 @@ go get github.com/rzaluska/mdloop
 1. Run:
 
     ```
-     mdloop [-f fiename]
+    mdloop [-f filename.md]
     ```
 
     If no filename is specified then `README.md` is used as default.

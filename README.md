@@ -6,7 +6,7 @@ Useful for editing GitHub README files.
 
 ## Install
 ```
-go get github.com/zaluska/mdloop
+go get github.com/rzaluska/mdloop
 ```
 
 ## Usage
